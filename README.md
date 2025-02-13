@@ -5,7 +5,7 @@ The goal of this project is to create a digital board game that follows a set of
 
 ## Project Details
 - **Project Name:** That's My Fish - Digital Board Game
-- **Developed by:** koushikk7
+- **Developed by:** Sai Koushik Neriyanuri
 - **Development Period:** Summer 2021
 - **Institution:** First semester at Warsaw University of Technology (WUT)
 
@@ -17,7 +17,3 @@ The goal of this project is to create a digital board game that follows a set of
 - Scoring system based on fish collected.
 - Ice floes disappear after penguins move off.
 
-## Installation and Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/koushikk7/C-Project-Thats-my-fish.git
