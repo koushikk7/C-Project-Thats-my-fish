@@ -1,0 +1,7 @@
+Short Term
+1) Implementing procedural generation into the entire program / Simplifying the code - Mikolaj Popik
+2) Completing the player information function to work and actually store the players names (in progress) - Amer/Atharva
+3) Work on creating a working movement function - Sai Koushik
+4) Creating if/else statements to make sure the user doesnt input incorrect numbers - Amer
+5) Implement scoring when moved to another iceblock - Sai Koushik
+6) Make iceblock actually disappear after penguin moved off - Atharva

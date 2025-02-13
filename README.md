@@ -1,1 +1,1 @@
-# C-Project-Thats-my-fish
+The goal of this little project is to make a digital board game which follows a set of instructions similar to the table top board game Hey, That's My Fish! In this game, the players will have to catch as many fish as possible with their penguins. Each turn, a player moves one penguin in a straight line over square-shaped ice tiles with 1, 2 or 3 fish on them. The player who catches the most number of fish wins.
