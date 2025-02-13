@@ -17,3 +17,10 @@ The goal of this project is to create a digital board game that follows a set of
 - Scoring system based on fish collected.
 - Ice floes disappear after penguins move off.
 
+## How to Play
+
+- Enter the names of the players when prompted.
+- Specify the number of rows and columns for the game board.
+- Place your penguins on the board by entering the row and column numbers.
+- Move your penguins to collect fish and score points.
+- The game ends when no more moves are possible or all fish are collected. The player with the highest score wins.
